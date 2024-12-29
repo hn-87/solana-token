@@ -1,6 +1,6 @@
 {
-  "name": "Mi Token Personalizado; web: https://github.com/hn-87/solana-token",
+  "name": "Mi_Token Personalizado",
   "symbol": "MITOKSOL",
-  "description": "Este es un token de prueba creado en Solana.",
+  "description": "Este es un token de prueba creado en Solana; web: https://github.com/hn-87/solana-token",
   "image": "https://raw.githubusercontent.com/hn-87/solana-token/refs/heads/main/st.png"
 }
